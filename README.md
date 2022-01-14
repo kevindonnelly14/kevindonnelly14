@@ -6,13 +6,9 @@
   <img align="left" alt="Kevin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
-hi, i'm [Kevin Donnelly](https://kevindonnelly14.github.io/KevinsGitHub//), I am a Product Manager at Citi. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+hi, i'm [Kevin Donnelly](https://kevindonnelly14.github.io/KevinsGitHub//), I am a Product Manager at Citi. My passion lies in dreaming up new products and making them reality..
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
