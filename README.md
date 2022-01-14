@@ -13,7 +13,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any questions? email me here =>[email](mailto:kevindonnelly14@gmail.com) 
+- 💼 any questions? email me here => [email](mailto:kevindonnelly14@gmail.com) 
 - 💬 Ask me about anything, I am happy to help!
 
 **languages and tools:**  
