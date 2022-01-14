@@ -1,4 +1,4 @@
-### Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/kevin-donnelly-26308a79/">
   <img align="left" alt="Kevin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -8,7 +8,7 @@
 
 <br />
 
-### Hi, I'm [Kevin Donnelly](https://kevindonnelly14.github.io/KevinsGitHub//), I am a Product Manager at Citi, my passion lies in dreaming up new products and making them reality.
+### Hi, I'm [Kevin Donnelly](https://kevindonnelly14.github.io/KevinsGitHub//), I am a Product Manager based in New York at Citi, my passion lies in dreaming up new products and making them reality.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
