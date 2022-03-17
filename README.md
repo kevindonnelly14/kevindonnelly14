@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/kevin-donnelly-26308a79/">
   <img align="left" alt="Kevin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/1241226737">
-  <img align="left" alt="Kevin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 
