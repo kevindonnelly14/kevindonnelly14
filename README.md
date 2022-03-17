@@ -1,9 +1,6 @@
 
 <a href="https://www.linkedin.com/in/kevin-donnelly-26308a79/">
   <img align="left" alt="Kevin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-**### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">**
-<br />
 
 ### Hi, I'm [Kevin Donnelly](https://kevindonnelly14.github.io/KevinsSite/), I am a Product Manager at Citi based in New York, my passion lies in dreaming up new products and making them reality.
 
